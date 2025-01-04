@@ -18,8 +18,8 @@
 	// Example items.
 	const data = {
 		user: {
-			name: 'Ustaz Nik',
-			email: 'usnik@example.com',
+			name: 'Johan Zafri',
+			email: 'johanzafri@example.com',
 			avatar: '/avatars/shadcn.jpg'
 		}
 	};
@@ -123,7 +123,7 @@
 							>
 								<Avatar.Root class="h-8 w-8 rounded-lg">
 									<Avatar.Image src={data.user.avatar} alt={data.user.name} />
-									<Avatar.Fallback class="rounded-lg">UN</Avatar.Fallback>
+									<Avatar.Fallback class="rounded-lg">JZ</Avatar.Fallback>
 								</Avatar.Root>
 								<div class="grid flex-1 text-left text-sm leading-tight">
 									<span class="truncate font-semibold">{data.user.name}</span>
