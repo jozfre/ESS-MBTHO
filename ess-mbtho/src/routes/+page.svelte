@@ -26,14 +26,14 @@
           </div>
           <Input id="password" type="password" required />
         </div>
-        <Button type="submit" class="w-full">Login</Button>
+        <Button type="submit" class="w-full" href="/dashboard">Login</Button>
         <Button variant="outline" class="w-full">Continue as Organizer</Button>
       </div>
     </div>
   </div>
   <div class="bg-muted hidden lg:block">
     <img
-      src="/images/favicon.png"
+      src="/images/masjid-btho.jpg"
       alt="logo mbtho"
       width="1920"
       height="1080"
