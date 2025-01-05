@@ -139,7 +139,7 @@
 						align="end"
 						sideOffset={4}
 					>
-						<Button variant="ghost" type="submit" class="w-full">
+						<Button variant="ghost" type="submit" class="w-full" href="/">
 							<LogOut class="mr-2 size-4" />
 							Log Out
 						</Button>
