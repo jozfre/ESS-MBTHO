@@ -13,7 +13,7 @@
       <div class="grid gap-2 text-center">
         <h1 class="text-3xl font-bold">Login</h1>
         <p class="text-muted-foreground text-balance">
-          Enter your email below to login to your account
+          Enter your email and password to login as admin
         </p>
       </div>
       <div class="grid gap-4">
@@ -34,7 +34,7 @@
   </div>
   <div class="bg-muted hidden lg:block">
     <img
-      src="/images/masjid-btho.jpg"
+      src="/images/logo-mbtho.png"
       alt="logo mbtho"
       width="1920"
       height="1080"
